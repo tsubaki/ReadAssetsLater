@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+CRC: 2727211515
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9918b035b04845ff40f3ca1d9d8683c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2a4df168dd15b14273ca45bc5493056c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: daa7e0829bc72c94babd728cc0466196, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce7a80d520cacc042b5fe14f373d8173, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 521b611700410be45810047f0a74e899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e004fefca5c7ba44d9c5ffd46fdee2ed, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 220
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle Resources/scene/stage.unity
+Dependencies:
+- D:/Users/tatsuhiko/UnityProject/LoadAssetFromAssetbundle/Assets/StreamingAssets/ball
+- D:/Users/tatsuhiko/UnityProject/LoadAssetFromAssetbundle/Assets/StreamingAssets/player

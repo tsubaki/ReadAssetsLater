@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1594489570
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61dae09ceaef03f9fc99fd5e9b896342
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2065b5e2bf6e83f12549d1ba9a56601c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle Resources/other assets/Ball/Rubber.physicmaterial
+- Assets/AssetBundle Resources/other assets/Ball/RollerBallGrey.mat
+- Assets/AssetBundle Resources/other assets/Ball/RollerBallWhite.mat
+- Assets/AssetBundle Resources/other assets/Ball/RollerBall.fbx
+Dependencies: []

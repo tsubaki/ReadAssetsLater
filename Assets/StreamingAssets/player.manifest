@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3933181998
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b269f0662e21b127692ab757e34fdf77
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 43cce5ff9319da244aa39cdf95ed1b75
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle Resources/other assets/Player/EthanNormals.png
+- Assets/AssetBundle Resources/other assets/Player/EthanWhite.mat
+- Assets/AssetBundle Resources/other assets/Player/EthanOcclusion.png
+- Assets/AssetBundle Resources/other assets/Player/Ethan.fbx
+- Assets/AssetBundle Resources/other assets/Player/EthanGrey.mat
+- Assets/AssetBundle Resources/other assets/Player/ThirdPersonAnimatorController.controller
+Dependencies: []

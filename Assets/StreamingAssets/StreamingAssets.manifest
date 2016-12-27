@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1683279868
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene
+      Dependencies:
+        Dependency_0: ball
+        Dependency_1: player
+    Info_1:
+      Name: ball
+      Dependencies: {}
+    Info_2:
+      Name: player
+      Dependencies: {}
